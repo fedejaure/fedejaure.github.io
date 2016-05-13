@@ -1,0 +1,4 @@
+Sitemap: https://fedejaure.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: fedejaure.github.io
