@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Nikola ignored files
+cache
+output
+.doit.db
+.doit.db.db
